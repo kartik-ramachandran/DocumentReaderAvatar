@@ -2,6 +2,10 @@
 
 A POC that combines an **Azure Talking Avatar** with **Azure OpenAI gpt-4o** (including vision). Upload documents, images, or PDFs and talk to a live avatar that reads and answers questions about your content using your voice.
 
+![Architecture](docs/architecture.png)
+
+![Screenshot](docs/screenshot.png)
+
 ---
 
 ## What You Need Before Running This
